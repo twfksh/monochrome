@@ -2,7 +2,7 @@
   "name": "monochrome-theme",
   "displayName": "Monochrome",
   "description": "Official VS Code color theme by Toufiq Ahmed",
-  "icon": "./images/icon.png",
+  "icon": "images/icon.png",
   "publisher": "toufiqahmedshr",
   "repository": {
     "type": "git",
