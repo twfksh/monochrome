@@ -1,0 +1,36 @@
+{
+  "name": "monochrome-theme",
+  "displayName": "Monochrome",
+  "description": "Official VS Code color theme by Toufiq Ahmed",
+  "icon": "./images/icon.png",
+  "publisher": "toufiqahmedshr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toufiq-ahmed/monochrome"
+  },
+  "author": {
+    "name": "Toufiq Ahmed"
+  },
+  "keywords": [
+    "themes",
+    "monochrome",
+    "monochrome-theme",
+    "Toufiq Ahmed"
+  ],
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monochrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monochrome-color-theme.json"
+      }
+    ]
+  }
+}
